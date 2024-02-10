@@ -3,9 +3,9 @@ class Node
     int data;
     Node left, right;
 
-    Node(int n)
+    Node(int val)
     {
-        data = n;
+        data = val;
         left = null;
         right = null;
     }
