@@ -15,6 +15,5 @@ class Solution {
             return true;
         return symmetric(root.left,root.right);
 
-        
-    }
+        }
 }
